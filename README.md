@@ -27,6 +27,73 @@ I have worked extensively with:
 - GitHub Copilot
 - Azure DevOps
 
+## Core Skills
+
+### Microsoft Fabric
+
+- Lakehouse
+- Warehouse
+- Eventstream
+- Eventhouse
+- Semantic Link Labs
+- Real-Time Dashboards
+- Data Pipelines
+- Notebooks
+- Direct Lake
+- Fabric Apps
+
+### Power BI
+
+- Generative BI
+- Semantic Modeling
+- DAX
+- Direct Lake
+- PBIP
+- PBIR
+- Executive Dashboard Design
+- Performance Optimization
+- Report Modernization
+
+### Real-Time Analytics
+
+- KQL
+- Capacity Monitoring
+- Workspace Monitoring
+- Operational Dashboards
+- Incident Analysis
+- Root Cause Analysis
+- Throttling Detection
+
+### AI & Agentic Development
+
+- Fabric MCP
+- Power BI Modeling MCP
+- Power BI Authoring Skills
+- GitHub Copilot
+- AI-Assisted Development
+
+### Fabric Application Development
+
+- Fabric Applications
+- Semantic Model Integration
+-  Excel Export Automation
+-  UI / UX Design
+
+### DevOps & Governance
+
+-  Azure DevOps
+-  Git
+-  Branch Management
+-  Source Control
+-  Documentation
+-  Troubleshooting
+
+### Pharmaceutical Analytics
+
+-  QMS Analytics
+-  GxP-Aware Reporting
+-  Executive Quality Dashboards
+
 ## Portfolio Sections
 
 - About Me
