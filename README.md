@@ -126,7 +126,7 @@ Real-time monitoring platform for Fabric capacity utilization, throttling risk, 
 
 ➡️ **[View project](projects/fabric-capacity-command-center.md)**
 
-### 📊 [APQR Fabric Analytics Application](projects/rayfin-app-fabric-application.md)
+### 📊 [Fabric Analytics Application](projects/rayfin-app-fabric-application.md)
 
 Fabric application built with React and TypeScript on top of a Power BI semantic model, with dynamic filters, pagination, and controlled Excel export.
 
