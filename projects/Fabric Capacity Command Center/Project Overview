@@ -1,0 +1,64 @@
+# Real-Time Microsoft Fabric Capacity Command Center
+
+## Project Overview
+
+A real-time monitoring solution designed to track Microsoft Fabric capacity utilization, identify throttling risk, analyze failed operations, and attribute capacity consumption to specific workspaces and Fabric items.
+
+## Business Problem
+
+When Fabric capacity becomes overloaded or throttled, reports, semantic-model queries, pipelines, notebooks, and other operations may slow down or become unavailable.
+
+The objective was to create an operational monitoring experience that answers:
+
+- Is the Fabric capacity currently healthy?
+- Is the capacity approaching throttling?
+- Which workspace or item is driving utilization?
+- Which operations have failed?
+- Which Fabric workloads are consuming the most capacity?
+- When did the incident occur?
+- What recovery action should be taken?
+
+## Solution Architecture
+
+Fabric Capacity Events -> Real-Time Hub -> Eventstream -> Eventhouse / KQL Database -> KQL Transformation and Analytics Layer -> Fabric Real-Time Dashboard -> Alerts and Recovery Architecture
+
+## Technologies Used
+- Microsoft Fabric
+- Real-Time Hub
+- Eventstream
+- Eventhouse
+- KQL
+- Real-Time Dashboard
+- Fabric Capacity Overview Events
+- Fabric Capacity Operation Events
+- Workspace Monitoring
+- Azure Logic Apps
+- Azure Automation
+
+## Key Capabilities
+- Current and peak capacity utilization
+- Interactive and scheduled workload analysis
+- Throttling-risk detection
+- Delay and rejection monitoring
+- Capacity consumption by item type
+- Workspace and item-level CU attribution
+- Failed-operation analysis
+- Incident consolidation
+- Likely driving item identification
+- Automated capacity-recovery architecture
+
+## Key Architectural Learning
+Capacity telemetry and live job monitoring answer different questions:
+
+Capacity events explain what is consuming capacity.
+Workspace Monitoring explains which operations are currently running.
+
+Using both sources provides a more complete operational monitoring solution.
+
+## Business Value
+Faster capacity-incident detection
+Clearer root-cause identification
+Reduced dependency on manual investigation
+Better visibility for Fabric administrators
+Management-friendly operational reporting
+Foundation for automated recovery and notification
