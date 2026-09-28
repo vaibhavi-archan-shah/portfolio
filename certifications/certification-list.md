@@ -1,0 +1,19 @@
+# Microsoft Certifications
+
+## Completed Certifications
+
+- PL-300: Microsoft Power BI Data Analyst Associate
+- DP-600: Microsoft Fabric Analytics Engineer Associate
+- DP-203: Azure Data Engineer Associate
+- PL-200: Microsoft Power Platform Functional Consultant
+- DP-900: Azure Data Fundamentals
+- AZ-900: Azure Fundamentals
+- PL-900: Power Platform Fundamentals
+
+## Areas Covered
+
+- Power BI
+- Microsoft Fabric
+- Data Analytics
+- Cloud Technologies
+- AI & Analytics
